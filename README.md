@@ -1,4 +1,4 @@
-# YaMDb
+# API for reviews service
 
 ### Разработчик проекта: Лоскутова Татьяна (Loskutova Tatiana)
 
